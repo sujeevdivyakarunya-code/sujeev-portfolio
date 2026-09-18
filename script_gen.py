@@ -1,0 +1,2 @@
+#Script writer
+print("ready")
